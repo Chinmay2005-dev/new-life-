@@ -1,2 +1,3 @@
 # new-life-
-this my first repository
+this my first git repository
+Author-Chinmay Mahajan
